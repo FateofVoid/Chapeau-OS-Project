@@ -1,0 +1,38 @@
+C:\Users\Mikaela\Desktop\Project Documentation\CHAPEAU OS\ChapeauLogic\bin\Debug\ChapeauLogic.dll
+C:\Users\Mikaela\Desktop\Project Documentation\CHAPEAU OS\ChapeauLogic\bin\Debug\ChapeauLogic.pdb
+C:\Users\Mikaela\Desktop\Project Documentation\CHAPEAU OS\ChapeauLogic\bin\Debug\ChapeauDAL.dll
+C:\Users\Mikaela\Desktop\Project Documentation\CHAPEAU OS\ChapeauLogic\bin\Debug\ChapeauDAL.pdb
+C:\Users\Mikaela\Desktop\Project Documentation\CHAPEAU OS\ChapeauLogic\bin\Debug\ChapeauDAL.dll.config
+C:\Users\Mikaela\Desktop\Project Documentation\CHAPEAU OS\ChapeauLogic\obj\Debug\ChapeauLogic.csprojAssemblyReference.cache
+C:\Users\Mikaela\Desktop\Project Documentation\CHAPEAU OS\ChapeauLogic\obj\Debug\ChapeauLogic.csproj.CoreCompileInputs.cache
+C:\Users\Mikaela\Desktop\Project Documentation\CHAPEAU OS\ChapeauLogic\obj\Debug\ChapeauLogic.csproj.CopyComplete
+C:\Users\Mikaela\Desktop\Project Documentation\CHAPEAU OS\ChapeauLogic\obj\Debug\ChapeauLogic.dll
+C:\Users\Mikaela\Desktop\Project Documentation\CHAPEAU OS\ChapeauLogic\obj\Debug\ChapeauLogic.pdb
+C:\Users\Mikaela\Desktop\Project Documentation\CHAPEAU OS\ChapeauLogic\bin\Debug\Shared.dll
+C:\Users\Mikaela\Desktop\Project Documentation\CHAPEAU OS\ChapeauLogic\bin\Debug\Shared.pdb
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\ChapeauLogic\obj\Debug\ChapeauLogic.csprojAssemblyReference.cache
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\ChapeauLogic\obj\Debug\ChapeauLogic.csproj.CoreCompileInputs.cache
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\ChapeauLogic\obj\Debug\ChapeauLogic.dll
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\ChapeauLogic\obj\Debug\ChapeauLogic.pdb
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\ChapeauLogic\bin\Debug\ChapeauLogic.dll
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\ChapeauLogic\bin\Debug\ChapeauLogic.pdb
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\ChapeauLogic\bin\Debug\ChapeauDAL.dll
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\ChapeauLogic\bin\Debug\ChapeauModel.dll
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\ChapeauLogic\bin\Debug\ChapeauDAL.pdb
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\ChapeauLogic\bin\Debug\ChapeauDAL.dll.config
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\ChapeauLogic\bin\Debug\ChapeauModel.pdb
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\ChapeauLogic\obj\Debug\ChapeauLogic.csproj.CopyComplete
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\ChapeauLogic\bin\Debug\ChapeauLogic.dll.CodeAnalysisLog.xml
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\ChapeauLogic\bin\Debug\ChapeauLogic.dll.lastcodeanalysissucceeded
+J:\Work\Term 4\Project merging\CHAPEAU OS_incomplete merge\CHAPEAU OS\ChapeauLogic\obj\Debug\ChapeauLogic.csprojAssemblyReference.cache
+J:\Work\Term 4\Project merging\CHAPEAU OS_incomplete merge\CHAPEAU OS\ChapeauLogic\obj\Debug\ChapeauLogic.csproj.CoreCompileInputs.cache
+J:\Work\Term 4\Project merging\CHAPEAU OS_incomplete merge\CHAPEAU OS\ChapeauLogic\obj\Debug\ChapeauLogic.dll
+J:\Work\Term 4\Project merging\CHAPEAU OS_incomplete merge\CHAPEAU OS\ChapeauLogic\obj\Debug\ChapeauLogic.pdb
+J:\Work\Term 4\Project merging\CHAPEAU OS_incomplete merge\CHAPEAU OS\ChapeauLogic\bin\Debug\ChapeauLogic.dll
+J:\Work\Term 4\Project merging\CHAPEAU OS_incomplete merge\CHAPEAU OS\ChapeauLogic\bin\Debug\ChapeauLogic.pdb
+J:\Work\Term 4\Project merging\CHAPEAU OS_incomplete merge\CHAPEAU OS\ChapeauLogic\bin\Debug\ChapeauDAL.dll
+J:\Work\Term 4\Project merging\CHAPEAU OS_incomplete merge\CHAPEAU OS\ChapeauLogic\bin\Debug\ChapeauModel.dll
+J:\Work\Term 4\Project merging\CHAPEAU OS_incomplete merge\CHAPEAU OS\ChapeauLogic\bin\Debug\ChapeauDAL.pdb
+J:\Work\Term 4\Project merging\CHAPEAU OS_incomplete merge\CHAPEAU OS\ChapeauLogic\bin\Debug\ChapeauDAL.dll.config
+J:\Work\Term 4\Project merging\CHAPEAU OS_incomplete merge\CHAPEAU OS\ChapeauLogic\bin\Debug\ChapeauModel.pdb
+J:\Work\Term 4\Project merging\CHAPEAU OS_incomplete merge\CHAPEAU OS\ChapeauLogic\obj\Debug\ChapeauLogic.csproj.CopyComplete

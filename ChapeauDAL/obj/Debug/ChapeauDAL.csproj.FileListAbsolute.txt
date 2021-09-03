@@ -1,0 +1,32 @@
+C:\Users\Mikaela\Desktop\Project Documentation\CHAPEAU OS\ChapeauDAL\bin\Debug\ChapeauDAL.dll.config
+C:\Users\Mikaela\Desktop\Project Documentation\CHAPEAU OS\ChapeauDAL\bin\Debug\ChapeauDAL.dll
+C:\Users\Mikaela\Desktop\Project Documentation\CHAPEAU OS\ChapeauDAL\bin\Debug\ChapeauDAL.pdb
+C:\Users\Mikaela\Desktop\Project Documentation\CHAPEAU OS\ChapeauDAL\obj\Debug\ChapeauDAL.csproj.CoreCompileInputs.cache
+C:\Users\Mikaela\Desktop\Project Documentation\CHAPEAU OS\ChapeauDAL\obj\Debug\ChapeauDAL.dll
+C:\Users\Mikaela\Desktop\Project Documentation\CHAPEAU OS\ChapeauDAL\obj\Debug\ChapeauDAL.pdb
+C:\Users\Mikaela\Desktop\Project Documentation\CHAPEAU OS\ChapeauDAL\bin\Debug\Shared.dll
+C:\Users\Mikaela\Desktop\Project Documentation\CHAPEAU OS\ChapeauDAL\bin\Debug\Shared.pdb
+C:\Users\Mikaela\Desktop\Project Documentation\CHAPEAU OS\ChapeauDAL\obj\Debug\ChapeauDAL.csprojAssemblyReference.cache
+C:\Users\Mikaela\Desktop\Project Documentation\CHAPEAU OS\ChapeauDAL\obj\Debug\ChapeauDAL.csproj.CopyComplete
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\ChapeauDAL\obj\Debug\ChapeauDAL.csprojAssemblyReference.cache
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\ChapeauDAL\obj\Debug\ChapeauDAL.csproj.CoreCompileInputs.cache
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\ChapeauDAL\obj\Debug\ChapeauDAL.dll
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\ChapeauDAL\obj\Debug\ChapeauDAL.pdb
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\ChapeauDAL\bin\Debug\ChapeauDAL.dll.config
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\ChapeauDAL\bin\Debug\ChapeauDAL.dll
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\ChapeauDAL\bin\Debug\ChapeauDAL.pdb
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\ChapeauDAL\bin\Debug\ChapeauModel.dll
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\ChapeauDAL\bin\Debug\ChapeauModel.pdb
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\ChapeauDAL\obj\Debug\ChapeauDAL.csproj.CopyComplete
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\ChapeauDAL\bin\Debug\ChapeauDAL.dll.CodeAnalysisLog.xml
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\ChapeauDAL\bin\Debug\ChapeauDAL.dll.lastcodeanalysissucceeded
+J:\Work\Term 4\Project merging\CHAPEAU OS_incomplete merge\CHAPEAU OS\ChapeauDAL\obj\Debug\ChapeauDAL.csprojAssemblyReference.cache
+J:\Work\Term 4\Project merging\CHAPEAU OS_incomplete merge\CHAPEAU OS\ChapeauDAL\obj\Debug\ChapeauDAL.csproj.CoreCompileInputs.cache
+J:\Work\Term 4\Project merging\CHAPEAU OS_incomplete merge\CHAPEAU OS\ChapeauDAL\obj\Debug\ChapeauDAL.dll
+J:\Work\Term 4\Project merging\CHAPEAU OS_incomplete merge\CHAPEAU OS\ChapeauDAL\obj\Debug\ChapeauDAL.pdb
+J:\Work\Term 4\Project merging\CHAPEAU OS_incomplete merge\CHAPEAU OS\ChapeauDAL\bin\Debug\ChapeauDAL.dll.config
+J:\Work\Term 4\Project merging\CHAPEAU OS_incomplete merge\CHAPEAU OS\ChapeauDAL\bin\Debug\ChapeauDAL.dll
+J:\Work\Term 4\Project merging\CHAPEAU OS_incomplete merge\CHAPEAU OS\ChapeauDAL\bin\Debug\ChapeauDAL.pdb
+J:\Work\Term 4\Project merging\CHAPEAU OS_incomplete merge\CHAPEAU OS\ChapeauDAL\bin\Debug\ChapeauModel.dll
+J:\Work\Term 4\Project merging\CHAPEAU OS_incomplete merge\CHAPEAU OS\ChapeauDAL\bin\Debug\ChapeauModel.pdb
+J:\Work\Term 4\Project merging\CHAPEAU OS_incomplete merge\CHAPEAU OS\ChapeauDAL\obj\Debug\ChapeauDAL.csproj.CopyComplete
